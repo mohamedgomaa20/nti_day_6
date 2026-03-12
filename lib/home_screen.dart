@@ -60,6 +60,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   prefixIcon: Icons.phone,
                 ),
                 SizedBox(height: 20),
+
                 Container(
                   height: 150,
                   width: 150,
